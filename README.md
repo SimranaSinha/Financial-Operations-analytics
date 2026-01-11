@@ -1,3 +1,7 @@
+Perfect. Here’s the **enhanced README** with both sections added, keeping it clean, attractive, and GitHub-friendly.
+
+---
+
 ## 📊 Financial Operations Analytics
 
 ### 🔍 Overview
@@ -31,11 +35,33 @@ The dataset contains time-based financial records used for revenue analysis and 
 
 ---
 
+### 📂 Project Structure
+
+```
+📦 Financial-Operations-Analytics
+ ┣ 📄 FINANCIAL_OPERATIONS_ANALYTICS.ipynb   # Main analysis notebook
+ ┣ 📄 README.md                              # Project documentation
+ ┗ 📁 visualisation_dashboard                # Financial dataset (if applicable)
+```
+
+---
+
+### 📊 Results & Visualizations
+
+* Time-series plots highlighting historical revenue trends
+* Visual detection of seasonality and revenue volatility
+* Forecasted revenue compared against historical performance
+* Clear charts supporting business interpretation and planning
+
+These visualizations help translate complex statistical outputs into insights that are easy for stakeholders to understand.
+
+---
+
 ### 📈 Key Insights
 
-* Revenue shows clear trends and seasonal behavior over time
-* Certain periods exhibit higher volatility, indicating potential operational risks
-* Forecasted revenue trends help inform budgeting and strategic planning
+* Revenue exhibits clear trends and seasonal behavior over time
+* Certain periods show higher volatility, indicating potential operational risks
+* Forecasted revenue trends provide support for budgeting and strategic planning
 
 ---
 
@@ -52,16 +78,18 @@ The dataset contains time-based financial records used for revenue analysis and 
 ### 💼 Use Cases
 
 * Financial performance monitoring
-* Revenue forecasting and capacity planning
-* Operational analytics and churn-related insights
+* Revenue forecasting and planning
+* Operational and churn-related analytics
 * Business decision support
 
 ---
 
-If you want, I can:
+If you want next, I can:
 
-* Add a **📂 Project Structure** section
-* Include a **📊 Results & Visualizations** section
-* Optimize it further for **recruiter visibility on GitHub**
+* Add **screenshots placeholders** for GitHub visuals
+* Write a **short repo description** for the GitHub sidebar
+* Optimize this README for **data analyst vs data scientist roles**
 
-Just say the word.
+Just tell me 👍
+
+
