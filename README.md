@@ -38,17 +38,17 @@ The project uses multiple structured datasets, including customer master data, t
 ```text
 📦 Financial-Operations-Analytics
 │
-├── 📄 financial_customers.csv           # Customer master data
-├── 📄 financial_transactions.csv        # Transaction history
-├── 📄 monthly_revenue.csv               # Aggregated monthly revenue metrics
+├── 📄 financial_customers.csv                          # Customer master data
+├── 📄 financial_transactions.csv                       # Transaction history
+├── 📄 monthly_revenue.csv                              # Aggregated monthly revenue metrics
 │
-├── 🧠 financial_analytics.py            # End-to-end analytics pipeline
-├── 📌 kpi_summary.txt                   # Key financial and operational KPIs
+├── 🧠 FINANCIAL_OPERATIONS_ANALYTICS.ipynb.py          # End-to-end analytics pipeline
+├── 📌 kpi_summary.txt                                  # Key financial and operational KPIs
 │
-├── ⚠️ at_risk_customers.csv             # Customers with high churn risk
-├── 📊 rfm_segmentation.csv              # RFM-based customer segmentation
+├── ⚠️ at_risk_customers.csv                            # Customers with high churn risk
+├── 📊 rfm_segmentation.csv                             # RFM-based customer segmentation
 │
-├── 📁 financial_viz/                    # Visual outputs (16 files)
+├── 📁 financial_viz/                                   # Visual outputs (16 files)
 │   ├── 📈 01_initial_exploration.png
 │   ├── 📉 02_ts_decomposition.png
 │   ├── 📊 03_acf_pacf_analysis.png
@@ -66,7 +66,7 @@ The project uses multiple structured datasets, including customer master data, t
 │   ├── 📊 15_profitability_dashboard.png
 │   └── 🧾 16_FINAL_EXECUTIVE_DASHBOARD.png
 │
-└── 📘 README.md                         # Project documentation
+└── 📘 README.md                                         # Project documentation
 ```
 
 📌 *All visualizations are stored in the `financial_viz/` folder, culminating in a final executive dashboard designed for stakeholder-level insights.*
