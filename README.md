@@ -31,19 +31,20 @@ The dataset contains time-based financial records used for revenue analysis and 
 
 ---
 
+
 📦 Financial-Operations-Analytics
 │
 ├── 📄 financial_customers.csv           # Customer master data
 ├── 📄 financial_transactions.csv        # Transaction history
 ├── 📄 monthly_revenue.csv               # Aggregated monthly revenue metrics
 │
-├── 🧠 financial_analytics.py            # End-to-end financial analytics pipeline
+├── 🧠 financial_analytics.py            # End-to-end analytics pipeline
 ├── 📌 kpi_summary.txt                   # Key financial and operational KPIs
 │
 ├── ⚠️ at_risk_customers.csv             # Customers with high churn risk
 ├── 📊 rfm_segmentation.csv              # RFM-based customer segmentation
 │
-├── 📁 financial_viz                     # Visual outputs (16 files)
+├── 📁 financial_viz/                    # Visual outputs (16 files)
 │   ├── 📈 01_initial_exploration.png
 │   ├── 📉 02_ts_decomposition.png
 │   ├── 📊 03_acf_pacf_analysis.png
@@ -62,6 +63,7 @@ The dataset contains time-based financial records used for revenue analysis and 
 │   └── 🧾 16_FINAL_EXECUTIVE_DASHBOARD.png
 │
 └── 📘 README.md                         # Project documentation
+
 
 ---
 
